@@ -1,7 +1,9 @@
 
 body{
-  background: url(img/prepcoffee.jpg);
+  background: url(../img/prepcoffee.jpg);
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
   h1{
@@ -18,4 +20,17 @@ p{
 
 .menu{
   text-align: center;
+}
+
+a{
+  color: black;
+}
+
+form{
+text-align: center;}
+
+button {
+  background-color: white;
+  color: black;
+  border: 5px solid #000000;
 }
