@@ -1,6 +1,6 @@
 About the Web Application
 
-This is a website for a cafetiria.
+This is a website for a cafeteria.
 
 Here is a link to the live-site:https://zawadibirya.github.io/prepcatering/
 
