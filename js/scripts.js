@@ -1,6 +1,6 @@
-var add = function(number1, number2) {
+function myTotaladd(number1, number2){
   return number1 + number2;
 };
-var number1 = parseInt(prompt("Enter a number:"));
-var number2 = parseInt(prompt("Enter another number:"));
-alert(add(number1, number2));
+var number1 = prompt("How much are your beverages?");
+var number2 = prompt("How much are your snacks?");
+alert("Your Total Order is " + number1 + number2 + " Pay via Mpesa Till 5432.");
